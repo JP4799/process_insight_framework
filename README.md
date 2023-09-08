@@ -1,4 +1,4 @@
-# GitHub Repository: Process Insight Toolbox
+# Process Insight Toolbox
 
 
 ## Table of Contents
